@@ -1,9 +1,9 @@
 ### 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝘄𝗲𝗹𝗰𝗼𝗺𝗲!
 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
-# - 🖥️ Programming student
-# - 🧑🏼‍🦱 16 year old boy
-# - 🎓 Acquired programming languages:
-# - ♾️Python - Basic, Intermediary
+ - 🖥️ Programming student
+ - 🧑🏼‍🦱 16 year old boy
+ - 🎓 Acquired programming languages:
+ - ♾️Python - Basic, Intermediary
    
 ![LuciusMalfoyAzkabanGIF](https://github.com/user-attachments/assets/222d647e-1b43-4da7-9378-97c8daf7b065)
 
