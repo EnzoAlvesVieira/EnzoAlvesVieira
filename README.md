@@ -2,7 +2,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, W𝗲𝗹𝗰𝗼𝗺𝗲!
 
 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
- # - 🖥️ Programming student
+ # - 🖥️ Programming Student
 Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
 Atualmente, Estudo no periodo da manhã, Curso Progamação a tarde pelo SENAI e estudo Administração pela ETEC no noturno em Santana De Parnaíba.
 Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo oportunidade de me aprofundar na área desejada.
