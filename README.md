@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Olá+Progamadores(as)!++Bem+Vindos+Ao+Meu+Git+Hub%22+))](https://git.io/typing-svg)
 # 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, W𝗲𝗹𝗰𝗼𝗺𝗲!
 
 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
@@ -36,6 +37,6 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 
 
 
-> _Jeremias 29:11_ 
+> _Jeremias 29:11_
 > — **Amém**
 ****
