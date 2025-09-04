@@ -7,8 +7,8 @@ Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por pr
 Atualmente, Estudo no periodo da manhã, Curso Progamação a tarde pelo SENAI e estudo Administração pela ETEC no noturno em Santana De Parnaíba.
 Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo oportunidade de me aprofundar na área desejada.
 
-   
-![LuciusMalfoyAzkabanGIF](https://github.com/user-attachments/assets/222d647e-1b43-4da7-9378-97c8daf7b065)
+
+![LuciusMalfoyAzkabanGIF](https://github.com/user-attachments/assets/222d647e-1b43-4da7-9378-97c8daf7b065) 
 
 
 
