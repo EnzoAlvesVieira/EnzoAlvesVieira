@@ -3,12 +3,14 @@
 
 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
  # - 🖥️ Programming Student
-Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
+<p align="center">Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
 Atualmente, Estudo no periodo da manhã, Curso Progamação a tarde pelo SENAI e estudo Administração pela ETEC no noturno em Santana De Parnaíba.
 Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo oportunidade de me aprofundar na área desejada.
 
+#
 
-![LuciusMalfoyAzkabanGIF](https://github.com/user-attachments/assets/222d647e-1b43-4da7-9378-97c8daf7b065)
+![pixel-jeff-chill-mario-2023-2](https://github.com/user-attachments/assets/bd605a3e-754c-450b-9e60-1ad106c88b11)
+
 
 
 
