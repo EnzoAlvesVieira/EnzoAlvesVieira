@@ -9,7 +9,11 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 
 #
 
-![pixel-jeff-chill-mario-2023-2](https://github.com/user-attachments/assets/bd605a3e-754c-450b-9e60-1ad106c88b11)
+<img align="right" alt="GIF" src="file:///C:/Users/E%20Alves/Downloads/pixel-jeff-chill-mario-2023-2.gif" width="200" />
+
+
+
+
 
 
 
