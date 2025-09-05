@@ -10,6 +10,8 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 
 ![LuciusMalfoyAzkabanGIF](https://github.com/user-attachments/assets/222d647e-1b43-4da7-9378-97c8daf7b065) 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/EnzoAlvesVieira/github-readme-stats)
+
 
 
  ---
