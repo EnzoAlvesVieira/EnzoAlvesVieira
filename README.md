@@ -1,4 +1,3 @@
-![f9b88deeae101d6a8572063bb63c286e1-ezgif com-resize (4)](https://github.com/user-attachments/assets/fd1c1fe0-f8db-480b-9ad9-e47e4eee21eb)
 # 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, W𝗲𝗹𝗰𝗼𝗺𝗲!
  # - 🖥️ Programming Student
 <p align="center">Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
@@ -7,12 +6,15 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 
 #
 
+![a_657cecf750ef1d286f7feb3002f359471-ezgif com-resize](https://github.com/user-attachments/assets/0d950d0c-60ba-4285-a841-1a8d958fdc16)
+
+
 
  # - 🧥 Other information
  <p align="center">Aqui você analisará dados e amostras sobre o uso da tecnologia pessoal, como as linguagens que estou utilizando atualmente, entre elas Python. Ao longo da minha jornada como programador e desenvolvedor, desejo aprimorar minhas estatísticas, tanto pessoais quanto profissionais.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoAlvesVieira&theme=jolly) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnzoAlvesVieira&theme=jolly) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EnzoAlvesVieira&theme=jolly&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=discord_old_blurple&utcOffset=8)
 
 
 
