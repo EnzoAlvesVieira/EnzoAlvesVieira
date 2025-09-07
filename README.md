@@ -1,3 +1,4 @@
+![a_657cecf750ef1d286f7feb3002f359471-ezgif com-resize](https://github.com/user-attachments/assets/0d950d0c-60ba-4285-a841-1a8d958fdc16)
 # 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, W𝗲𝗹𝗰𝗼𝗺𝗲!
  # - 🖥️ Programming Student
 <p align="center">Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
@@ -6,7 +7,7 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 
 #
 
-![a_657cecf750ef1d286f7feb3002f359471-ezgif com-resize](https://github.com/user-attachments/assets/0d950d0c-60ba-4285-a841-1a8d958fdc16)
+
 
 
 
