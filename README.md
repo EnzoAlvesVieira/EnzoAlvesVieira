@@ -21,8 +21,6 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
  ---
 
 
-# 🌐 Socials:
-<br>
 
 <div align="center">
   <samp>
