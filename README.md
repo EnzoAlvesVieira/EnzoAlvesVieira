@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Olá+Progamadores(as)!++Bem+Vindos+Ao+Meu+Git+Hub%22+))](https://git.io/typing-svg)
 # 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, W𝗲𝗹𝗰𝗼𝗺𝗲!
 
-𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
  # - 🖥️ Programming Student
 <p align="center">Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
 Atualmente, Estudo no periodo da manhã, Curso Progamação a tarde pelo SENAI e estudo Administração pela ETEC no noturno em Santana De Parnaíba.
@@ -9,8 +7,8 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 
 #
 
-![pixel-jeff-chill-mario-2023-2](https://github.com/user-attachments/assets/1e1196e9-4fba-42a4-9ced-277cad94a2f1)
 
+![f9b88deeae101d6a8572063bb63c286e1-ezgif com-resize (4)](https://github.com/user-attachments/assets/fd1c1fe0-f8db-480b-9ad9-e47e4eee21eb)
 
 
 
