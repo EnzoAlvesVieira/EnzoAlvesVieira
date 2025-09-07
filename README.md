@@ -1,5 +1,5 @@
+![f9b88deeae101d6a8572063bb63c286e1-ezgif com-resize (4)](https://github.com/user-attachments/assets/fd1c1fe0-f8db-480b-9ad9-e47e4eee21eb)
 # 𝗛𝗲𝗹𝗹𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, W𝗲𝗹𝗰𝗼𝗺𝗲!
-
  # - 🖥️ Programming Student
 <p align="center">Meu nome é Enzo De Oliveira Alevs Vieira, sou um jovem recém apaixonado por progamação e desenvolvimento de software e um entusiasta por tecnologia.
 Atualmente, Estudo no periodo da manhã, Curso Progamação a tarde pelo SENAI e estudo Administração pela ETEC no noturno em Santana De Parnaíba.
@@ -8,7 +8,7 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
 #
 
 
-![f9b88deeae101d6a8572063bb63c286e1-ezgif com-resize (4)](https://github.com/user-attachments/assets/fd1c1fe0-f8db-480b-9ad9-e47e4eee21eb)
+ # - 🧥 Other information
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoAlvesVieira&theme=jolly) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnzoAlvesVieira&theme=jolly) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EnzoAlvesVieira&theme=jolly&utcOffset=8)
