@@ -16,10 +16,8 @@ Venho tido experiencias incriveis com a progamação a 1 mês, e estou tendo opo
  # - 🧥 Other information
  <p align="center">Aqui você analisará dados e amostras sobre o uso da tecnologia pessoal, como as linguagens que estou utilizando atualmente, entre elas Python. Ao longo da minha jornada como programador e desenvolvedor, desejo aprimorar minhas estatísticas, tanto pessoais quanto profissionais.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=discord_old_blurple&utcOffset=8)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoAlvesVieira&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnzoAlvesVieira&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EnzoAlvesVieira&theme=discord_old_blurple&utcOffset=8)
 
 
 
